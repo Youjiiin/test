@@ -1,0 +1,14 @@
+.btn {
+    position: fixed;
+    width: 200px;
+    height: 50px;
+    background-color: #eb4545;
+    z-index: 2;
+    top: 40rem;
+    right: 6rem;
+    border: none;
+    border-radius: 30px;
+    color: white;
+    font-weight: bold;
+    font-size: 17px;
+}

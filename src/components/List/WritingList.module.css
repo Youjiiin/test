@@ -1,0 +1,12 @@
+.writing {
+    max-width: 60rem;
+    width: 100%;
+    height: 90%;
+    padding-top: 38%;
+}
+
+.writing ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
